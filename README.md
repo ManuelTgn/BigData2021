@@ -32,3 +32,7 @@ To run the notebook are required the following Python packages:
 - ```scipy```
 
 They can all be downloaded and installed through ```pip install -- packagename --```.
+
+### License
+
+MIT
